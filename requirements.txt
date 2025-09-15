@@ -3,4 +3,5 @@ scikit-learn
 pandas
 nltk
 joblib
+gunicorn
 imblearn
